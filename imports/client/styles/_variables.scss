@@ -1,0 +1,40 @@
+// Colors
+$brand-primary: #5b4681;
+$brand-primary-text: white;
+$brand-secondary: #f9f9f9;
+$brand-secondary-text: #777777;
+$grey: #dddddd;
+
+// Space
+$space: 1.4rem;
+$site-max-width: 50rem;
+
+//Font sizes
+$base-font-size: 1.6rem;
+$large-font-size: 1.8rem;
+
+// Form inputs
+$input-border: $grey;
+$input-spacing: 1rem;
+
+//Boxed view
+$boxed-view-overlay-bg: $grey;
+$boxed-view-bg: $brand-primary-text;
+
+//Button
+$button-bg: $brand-primary;
+$button-color: $brand-primary-text;
+$button-pill-color:  $brand-primary;
+$button-secondary-bg: $brand-secondary;
+$button-secondary-border-color: $grey;
+$button-secondary-color: $brand-secondary-text;
+
+//Title bar
+$title-bar-bg: $brand-primary;
+$title-bar-color: $brand-primary-text;
+
+//Section item
+$item-bg: $brand-secondary;
+$item-border: darken($item-bg, 8%);
+$item-text-color: $brand-secondary-text;
+
